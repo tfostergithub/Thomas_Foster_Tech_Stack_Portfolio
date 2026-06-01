@@ -12,7 +12,7 @@
 
 ---
 
-📧 thomasfoster79@yahoo.com &nbsp;|&nbsp; 📞 (540) 570-6094 &nbsp;|&nbsp; 📍 Pea Ridge, AR 72751 &nbsp;|&nbsp; 🔗 [github.com/thomasfoster](https://github.com/thomasfoster)
+📧 thomasfoster79@yahoo.com &nbsp;|&nbsp; 📞 (540) 570-6094 &nbsp;|&nbsp; 📍 Pea Ridge, AR 72751 &nbsp;|&nbsp; 🔗 [github.com/tfostergithub](https://github.com/tfostergithub)
 
 ---
 
@@ -734,7 +734,7 @@ Concentration: AI Engineering & Healthcare Claims Analytics
 | **Email** | thomasfoster79@yahoo.com |
 | **Phone** | (540) 570-6094 |
 | **Location** | Pea Ridge, AR 72751 |
-| **GitHub** | [github.com/thomasfoster](https://github.com/thomasfoster) |
+| **GitHub** | [github.com/tfostergithub](https://github.com/tfostergithub) |
 
 ---
 
